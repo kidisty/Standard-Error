@@ -10,3 +10,5 @@ Matplotlib
 -Calculated the range of SEM values across the sample set.
 
 -Sample with the lowest standard error value.
+
+-Comparision this of sample's mean to the population's mean.
